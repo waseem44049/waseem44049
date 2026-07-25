@@ -80,24 +80,24 @@ Passionate about building AI-powered applications, intelligent automation, and m
 **Self-Employed · Remote**  
 **2025 – Present**
 
-- Designed and developed AI automation workflows using **n8n** and **Make (Integromat)**.
-- Integrated APIs, databases, and cloud services to automate business processes.
-- Built AI-powered solutions for data scraping, notifications, report generation, and workflow automation.
-- Helped businesses reduce manual work and improve operational efficiency.
-- Continuously explored the latest AI tools, LLM APIs, and automation technologies for real-world applications.
+- Build AI automation workflows using **n8n** and **Make**.
+- Connect APIs, databases, and other online services.
+- Create AI tools for data scraping, notifications, and reports.
+- Help businesses save time by automating daily tasks.
+- Learn and use the latest AI tools and LLM APIs in projects.
 
 ---
 
-### Digital Marketing & E-Commerce Developer (Shopify CRO) (Freelance)
+### Shopify Developer & Digital Marketer (Freelance)
 **Self-Employed · Remote**  
 **2022 – Present**
 
-- Developed and managed **Shopify** and **WordPress** websites for clients.
-- Designed high-converting landing pages and optimized e-commerce stores.
-- Managed digital marketing campaigns on **Facebook**, **TikTok**, and other platforms.
-- Implemented automation workflows and third-party integrations to improve business operations.
-- Worked with clients from different industries to deliver reliable e-commerce solutions.
-- Currently transitioning full-time into **AI Automation** and **Machine Learning** while applying previous freelance experience to AI-driven solutions.
+- Build and manage **Shopify** and **WordPress** websites.
+- Create landing pages and online stores.
+- Run Facebook and TikTok marketing campaigns.
+- Set up automation and app integrations.
+- Help businesses grow their online sales.
+- Now focusing on **AI Automation** and **Machine Learning**.
 
 ---
 
@@ -105,14 +105,16 @@ Passionate about building AI-powered applications, intelligent automation, and m
 
 ### AI & Remote Sensing Based Glacier Monitoring System
 
-**UET Peshawar | Final Year Capstone Project**  
+**UET Peshawar**  
 **2025 – 2026**
 
-- Developing an AI-powered glacier monitoring system for **Khyber Pakhtunkhwa**.
-- Using satellite imagery, remote sensing, and machine learning to monitor glacier changes.
-- Applying computer vision techniques to analyze geospatial data.
-- Building an early warning system to support water resource management and disaster preparedness.
-- Aiming to provide accurate and timely insights for environmental monitoring and decision-making.
+- Build an AI system to monitor glacier changes.
+- Use satellite images and machine learning.
+- Apply computer vision to analyze glacier data.
+- Create an early warning system for local communities.
+- Help improve environmental monitoring and water safety.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -128,6 +130,8 @@ Passionate about building AI-powered applications, intelligent automation, and m
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+---
 
 ## 📫 Connect With Me
 
