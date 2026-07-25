@@ -5,17 +5,18 @@ Computer Systems Engineering student at UET Peshawar, building AI automation wor
 
 Email: waseem44049@gmail.com
 Location: Nowshera Risalpur, Khyber Pakhtunkhwa, Pakistan
+LinkedIn: [linkedin.com/in/muhammad-waseem-8725452b6](https://www.linkedin.com/in/muhammad-waseem-8725452b6)
 
 ---
 
 ## About Me
 
-- BSc Computer System Engineering, UET Peshawar (2022–2026)
-- Building AI automation workflows using n8n and Make (Integromat)
-- Final year project: AI & Remote Sensing based Glacier Monitoring System for KPK water safety
-- Comfortable with Python, NumPy, Pandas, Matplotlib, Seaborn, and SQL, along with machine learning fundamentals
-- 3+ years of freelance experience in Shopify development and digital marketing, having served 150+ clients
-- Currently deepening my skills in AI/ML and looking for an AI Automation & Machine Learning Internship
+- Studying BSc Computer System Engineering at UET Peshawar (2022–2026)
+- Skilled in designing AI-driven automation workflows with n8n and Make (Integromat)
+- Working on a final year project focused on AI and Remote Sensing for glacier monitoring in KPK
+- Solid working knowledge of Python, NumPy, Pandas, Matplotlib, Seaborn, and SQL, with a good grasp of core machine learning concepts
+- Over 3 years of freelance experience in Shopify development and digital marketing, having worked with 150+ clients
+- Actively growing my AI/ML expertise and seeking an AI Automation & Machine Learning Internship
 
 ---
 
@@ -33,10 +34,11 @@ Location: Nowshera Risalpur, Khyber Pakhtunkhwa, Pakistan
 
 ## AI/ML Concepts I Work With
 
-- Supervised Learning & Data Preprocessing
+- Supervised & Unsupervised Learning
+- Data Preprocessing
 - Model Training & Integration
 - Computer Vision Basics
-- Remote Sensing AI for geospatial analysis
+- Cloud-Based Model Training (Azure ML, etc.)
 - Prompt Engineering & AI API Integration
 
 ---
@@ -46,21 +48,21 @@ Location: Nowshera Risalpur, Khyber Pakhtunkhwa, Pakistan
 **AI & Remote Sensing Based Glacier Monitoring System**
 UET Peshawar — Final Year Capstone Project (2025–2026)
 
-An early warning system that combines satellite imagery, computer vision, and AI/ML models to detect glacier changes in Khyber Pakhtunkhwa, aiming to support timely water-safety decisions for local communities.
+This project focuses on building an early-warning system for glacier changes across Khyber Pakhtunkhwa by combining satellite imagery, computer vision, and AI/ML models, with the goal of supporting timely water-safety decisions for local communities.
 
-- Satellite data ingestion and geospatial analysis
-- AI/ML models to track glacier melting patterns
-- Real-time analysis combining computer vision with GIS data
+- Collecting and analyzing satellite data for geospatial insights
+- Applying AI/ML models to monitor glacier melting trends
+- Merging computer vision with GIS data for near real-time analysis
 
 ---
 
 ## Experience
 
 **AI Automation Developer (Freelance)** — 2025–Present
-Building automated workflows with n8n and Make that connect APIs, databases, and services; designing AI-based systems for scraping, notifications, and reporting.
+I build automated workflows using n8n and Make to connect APIs, databases, and other services. I also design AI-based systems for tasks like data scraping, sending notifications, and generating reports.
 
 **Digital Marketing & E-Commerce Developer (Freelance)** — 2022–Present
-Built and managed Shopify/WordPress stores, ran Facebook and TikTok marketing campaigns, and set up automation and app integrations for clients. Served 150+ clients and customers, delivering work with consistency and integrity.
+I have built and managed Shopify and WordPress stores, run Facebook and TikTok marketing campaigns, and set up automation and app integrations for clients. Over the years, I have worked with 150+ clients and customers, always focused on consistent and honest work.
 
 ---
 
@@ -69,6 +71,12 @@ Built and managed Shopify/WordPress stores, ran Facebook and TikTok marketing ca
 ![](https://github-readme-stats.vercel.app/api?username=waseem44049&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=waseem44049&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waseem44049&theme=tokyonight&hide_border=true&layout=compact)
+
+## Contribution Snake
+
+![](https://github.com/waseem44049/waseem44049/blob/output/github-contribution-grid-snake.svg)
+
+*Note: this animated snake needs a small one-time setup — a GitHub Action (like [Platane/snk](https://github.com/Platane/snk)) that generates the SVG from your contribution graph. Let me know if you'd like help setting that up.*
 
 ## GitHub Trophies
 
@@ -80,7 +88,7 @@ Built and managed Shopify/WordPress stores, ran Facebook and TikTok marketing ca
 
 - Email: waseem44049@gmail.com
 - Location: Nowshera Risalpur, Khyber Pakhtunkhwa, Pakistan
-- LinkedIn: add your LinkedIn URL here
+- LinkedIn: [linkedin.com/in/muhammad-waseem-8725452b6](https://www.linkedin.com/in/muhammad-waseem-8725452b6)
 
 ---
 
