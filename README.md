@@ -46,6 +46,7 @@ LinkedIn: [linkedin.com/in/muhammad-waseem-8725452b6](https://www.linkedin.com/i
 ## Final Year Project
 
 **AI & Remote Sensing Based Glacier Monitoring System**
+
 UET Peshawar — Final Year Capstone Project (2025–2026)
 
 This project focuses on building an early-warning system for glacier changes across Khyber Pakhtunkhwa by combining satellite imagery, computer vision, and AI/ML models, with the goal of supporting timely water-safety decisions for local communities.
