@@ -74,28 +74,45 @@ Passionate about building AI-powered applications, intelligent automation, and m
 
 ---
 
+## 💼 Professional Experience
+
+### AI Automation Developer (Freelance)
+**Self-Employed · Remote**  
+**2025 – Present**
+
+- Designed and developed AI automation workflows using **n8n** and **Make (Integromat)**.
+- Integrated APIs, databases, and cloud services to automate business processes.
+- Built AI-powered solutions for data scraping, notifications, report generation, and workflow automation.
+- Helped businesses reduce manual work and improve operational efficiency.
+- Continuously explored the latest AI tools, LLM APIs, and automation technologies for real-world applications.
+
+---
+
+### Digital Marketing & E-Commerce Developer (Shopify CRO) (Freelance)
+**Self-Employed · Remote**  
+**2022 – Present**
+
+- Developed and managed **Shopify** and **WordPress** websites for clients.
+- Designed high-converting landing pages and optimized e-commerce stores.
+- Managed digital marketing campaigns on **Facebook**, **TikTok**, and other platforms.
+- Implemented automation workflows and third-party integrations to improve business operations.
+- Worked with clients from different industries to deliver reliable e-commerce solutions.
+- Currently transitioning full-time into **AI Automation** and **Machine Learning** while applying previous freelance experience to AI-driven solutions.
+
+---
+
 ## 🎓 Final Year Project
 
 ### AI & Remote Sensing Based Glacier Monitoring System
 
-This project combines satellite imagery, computer vision, and machine learning to monitor glacier changes in Khyber Pakhtunkhwa and support early warning systems.
+**UET Peshawar | Final Year Capstone Project**  
+**2025 – 2026**
 
----
-
-## 💼 Experience
-
-### AI Automation Developer
-- Build AI automation workflows using n8n and Make
-- Integrate APIs and automate business processes
-- Develop AI-powered workflow solutions
-
-### Shopify Developer & Digital Marketer
-- Develop Shopify stores
-- Create landing pages
-- Manage digital marketing campaigns
-- Automate e-commerce workflows
-
----
+- Developing an AI-powered glacier monitoring system for **Khyber Pakhtunkhwa**.
+- Using satellite imagery, remote sensing, and machine learning to monitor glacier changes.
+- Applying computer vision techniques to analyze geospatial data.
+- Building an early warning system to support water resource management and disaster preparedness.
+- Aiming to provide accurate and timely insights for environmental monitoring and decision-making.
 
 ## 📊 GitHub Stats
 
