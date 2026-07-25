@@ -105,7 +105,7 @@ Passionate about building AI-powered applications, intelligent automation, and m
 
 ### AI & Remote Sensing Based Glacier Monitoring System
 
-**UET Peshawar — Final Year Capstone Project **  
+**UET Peshawar — Final Year Capstone Project**  
 **2025 – 2026**
 
 - Build an AI system to monitor glacier changes.
