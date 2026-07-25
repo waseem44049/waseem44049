@@ -105,16 +105,19 @@ This project combines satellite imagery, computer vision, and machine learning t
 
 ---
 
-## 🏆 GitHub Trophies
+</div><br>
+<!-- Snake Game Repo View -->
 
-![](https://github-profile-trophy.vercel.app/?username=waseem44049&theme=tokyonight&no-frame=true&margin-w=8)
-
----
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 📫 Connect With Me
 
 📧 Email: **waseem44049@gmail.com**
+
 💼 LinkedIn: https://www.linkedin.com/in/muhammad-waseem-8725452b6
+
 📍 Location: Nowshera, Khyber Pakhtunkhwa, Pakistan
 
 ---
