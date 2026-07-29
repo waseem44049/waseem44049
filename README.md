@@ -118,8 +118,10 @@ Passionate about building AI-powered applications, intelligent automation, and m
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=waseem44049&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-![](https://github-readme-streak-stats.herokuapp.com/?user=waseem44049&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=waseem44049&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waseem44049&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ---
